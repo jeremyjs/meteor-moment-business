@@ -2,7 +2,7 @@ Package.describe({
   name: 'jjman505:moment-business',
   version: '2.0.0',
   // Brief, one-line summary of the package.
-  summary: 'A wrapper for jmeas/moment-business',
+  summary: 'Business day functionality for moment.js',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/jjman505/meteor-moment-business',
   // By default, Meteor will default to using README.md for documentation.
